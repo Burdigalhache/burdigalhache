@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/burdigalhache/static/css/main.bd22f365.css",
+    "main.js": "/burdigalhache/static/js/main.95389188.js",
+    "static/js/787.ec1e4b8c.chunk.js": "/burdigalhache/static/js/787.ec1e4b8c.chunk.js",
+    "service-worker.js": "/burdigalhache/service-worker.js",
+    "index.html": "/burdigalhache/index.html",
+    "main.bd22f365.css.map": "/burdigalhache/static/css/main.bd22f365.css.map",
+    "main.95389188.js.map": "/burdigalhache/static/js/main.95389188.js.map",
+    "787.ec1e4b8c.chunk.js.map": "/burdigalhache/static/js/787.ec1e4b8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd22f365.css",
+    "static/js/main.95389188.js"
+  ]
+}
